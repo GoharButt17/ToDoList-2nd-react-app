@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Shadows+Into+Light&display=swap');
+
+h1,p {
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    font-size: 65px !important;
+    color: lightgrey ;
+}
+
+p {
+    font-size: 25px !important;
+    color: lightgray;
+}
